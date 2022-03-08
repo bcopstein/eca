@@ -3,7 +3,7 @@ public class Veiculo{
     private Placa placa;
     private double combustivel;
 
-    # Mais uma modificacao
+    // Mais uma modificacao
     public Veiculo(Placa placa){
         this.placa = placa;
         combustivel = 0;
