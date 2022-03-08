@@ -4,7 +4,7 @@ public class App{
         
         // Uma alteracao
         Veiculo v = new Veiculo(p1);
-        System.out.println("Dados do veiculo antes de abastecer:");
+        System.out.println("Dados njkjkjkdo veiculo antes de abastecer:");
         System.out.println(v);
         System.out.println("----------------");
 
