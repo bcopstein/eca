@@ -4,6 +4,7 @@ public class Placa{
     private String pais;
     private String codigo; // LLLNLNN
 
+    #Uma modificacao
     public Placa(String pais,String codigo){
         this.pais = pais;
         if (Pattern.matches("[A-Z]{3}[0-9][A-Z][0-9]{2}", codigo) == true){
