@@ -2,7 +2,7 @@ public class App{
     public static void main(String args[]){
         Placa p1 = new Placa("Brasil","ABC1R23");
         
-        // Uma alteracao
+        // Uma alteracao a mais
         Veiculo v = new Veiculo(p1);
         System.out.println("Dados njkjkjkdo veiculo antes de abastecer:");
         System.out.println(v);
